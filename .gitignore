@@ -1,0 +1,17 @@
+# Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Power BI
+*.pbix
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets / temp
+.env
+
+# Raw data
+data/raw/*.csv
