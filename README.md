@@ -124,6 +124,8 @@ This block demonstrates that countries with higher present-day demographic risk 
 
 ## Project Structure
 
+```
+
 /
 ├── data/
 │ └── raw/ # Source demographic datasets (Eurostat)
@@ -152,6 +154,8 @@ This block demonstrates that countries with higher present-day demographic risk 
 │ └── EU_Demographic_Risk_Analysis.pdf
 │
 └── README.md
+
+```
 
 ## Next Steps
 
